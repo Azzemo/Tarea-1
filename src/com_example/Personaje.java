@@ -25,7 +25,7 @@ public class Personaje {
     @Override
     public String toString(){
          return "Personaje{"+
-                 ", Nombre= "+ nombre + 
+                 " Nombre= "+ nombre + 
                  ", Vida= " + vida +
                  ", Mana= " + mana +
                  ", Ataque= " + ataque +
