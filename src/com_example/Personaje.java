@@ -25,12 +25,12 @@ public class Personaje {
     @Override
     public String toString(){
          return "Personaje{"+
-                 " Nombre= "+ nombre + 
-                 " Vida= " + vida +
-                 " Mana= " + mana +
-                 " Ataque= " + ataque +
-                 " Dinero= "+ dinero +
-                 " Vivo= "+ vivo +
+                 ", Nombre= "+ nombre + 
+                 ", Vida= " + vida +
+                 ", Mana= " + mana +
+                 ", Ataque= " + ataque +
+                 ", Dinero= "+ dinero +
+                 ", Vivo= "+ vivo +
                  "}";
                 }
 }
